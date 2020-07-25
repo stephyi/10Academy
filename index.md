@@ -2,7 +2,7 @@
 
  **MY 10 Academy Journey**
  
- [Blogs](./another-page.html).
+ [Blogs](./blogs.md).
 
 
 
