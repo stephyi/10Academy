@@ -24,7 +24,7 @@ Below are each week's description and blog url's to further understand the workf
 * * *
 
 ## Week Two
-
+ 
  **Identifying Twitter Communities interested in Africa Affairs**
 >Use twitter searchand stream API to collect users data, and identify major 
 >user communities that are interestedin your country economical, social, cultural, and public health affairs.
