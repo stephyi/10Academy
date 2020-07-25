@@ -1,10 +1,11 @@
 
-[Home](./)  [Blogs](./blogs.md).   [About](./about.md)  
+
 
  **MY 10 Academy Journey**
  ========================
  
  
+ [Blogs](./blogs.md)  
 
 
 
