@@ -1,8 +1,6 @@
----
-layout: default
----
 
- **MY 10 Academy Journey**
+
+ #**MY 10 Academy Journey**
 
 [Link to another page](./another-page.html).
 
@@ -13,9 +11,9 @@ I'm Stephany Wanjiru,statistician and data science student(learning,relearning a
 Below are each week's description and blog url's to further understand the workflow.
 
 
-# Week One
+## Week One
 
- **Identigying influencers rank position from Twitter data**
+ **Identifying influencers rank position from Twitter data**
 >After extracting top influencers and and goverment officials I was required to do analysis and 
 >provide recommendation for the most suitable candidate for a social media marketing campaign.
 >
@@ -23,7 +21,7 @@ Below are each week's description and blog url's to further understand the workf
 
 * * *
 
-# Week Two
+## Week Two
 
  **Identifying Twitter Communities interested in Africa Affairs**
 >Use twitter searchand stream API to collect users data, and identify major 
@@ -32,7 +30,7 @@ Below are each week's description and blog url's to further understand the workf
 
 * * *
 
-# Week Three
+## Week Three
 
 
 
