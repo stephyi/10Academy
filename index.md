@@ -1,8 +1,10 @@
 
 
  #**MY 10 Academy Journey**
+ 
+ [Blogs](./another-page.html).
 
-[Link to another page](./another-page.html).
+
 
 Hello, welcome to my space.
 
