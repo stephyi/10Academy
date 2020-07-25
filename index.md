@@ -1,6 +1,6 @@
 
 
- #**MY 10 Academy Journey**
+ **MY 10 Academy Journey**
  
  [Blogs](./another-page.html).
 
