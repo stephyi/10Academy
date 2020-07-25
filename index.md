@@ -1,7 +1,8 @@
+---
+layout: default
+---
 
-
-
- #**MY 10 Academy Journey**
+# **MY 10 Academy Journey**
 
  
  
