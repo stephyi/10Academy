@@ -6,9 +6,9 @@ layout: default
 [back](./)
 
 
-### *SOCIAL MEDIA INFLUENCERS IN AFRICA ANALYSIS
+### *SOCIAL MEDIA INFLUENCERS IN AFRICA ANALYSIS*
 
-#### INTRODUCTION*
+#### INTRODUCTION
 
 >From the iconic swoosh logo to the ‘Just Do It’ slogan which is now part of pop culture, Nikeis one of the most recognizable >brands in the world.​When you partner with an influencerwhose audience matches your ​unique buyer persona​, you’ll >effectively be reaching adedicated audience who actively opted-in to following and engaging with that influencer.The retail juggernaut has moved beyond the domain of selling sportswear to brandingthemselves as a lifestyle. From past analysis,by >personifying the brand through  sportinglegends and putting their faces ahead of the ​brand​ or their product, Nike has >earned itself aspecial place in the sporting world.The same progress will be possible in Africa bycollaborating with relevant >top influencers who’ll be able to create personalisedconnections that go beyond a one-size-fits-all broadcast >message.
 
