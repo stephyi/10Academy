@@ -1,8 +1,8 @@
 
 
 
- **MY 10 Academy Journey**
- ========================
+ #**MY 10 Academy Journey**
+
  
  
  [Blogs](./blogs.md)  
